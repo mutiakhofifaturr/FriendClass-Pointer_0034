@@ -62,3 +62,10 @@ double kelilingBelah = 4 * b.sisi;
 cout << "\n--- Keliling ---" << endl;  
 cout << "Keliling Layang-Layang : " << kelilingLayang << endl;  
 cout << "Keliling Belah Ketupat : " << kelilingBelah << endl;
+
+}
+
+int main() {
+//Lengkapi disini
+LayangLayang ObjectLayang;
+BelahKetupat ObjectBelah;
